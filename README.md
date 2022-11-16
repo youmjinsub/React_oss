@@ -40,8 +40,8 @@ React를 사용하지 않아도 웹 페이지를 만들 수 있지만,
 
 참고문헌
 ---------------
-    https://github.com/facebook/react
-    
-    https://github.com/typescript-cheatsheets/react
-    
-    https://doqtqu.tistory.com/316
+> [https://github.com/facebook/react](https://github.com/facebook/react)
+>    
+> [https://github.com/typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react)
+>    
+> [https://doqtqu.tistory.com/316](https://doqtqu.tistory.com/316)
