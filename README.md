@@ -35,8 +35,13 @@ React를 사용하지 않아도 웹 페이지를 만들 수 있지만,
 > 다른 프레임워크나 라이브러리와 혼용하여 사용할 수 있습니다.
 
 * 단점
-
+> 데이터 모델링, 라우팅, Ajax 등의 기능을 제공하지 않아 추가 라이브러리를 사용해야 합니다.
+> Virtual DOM을 이용하는 경우, 개발 과정에서 사소한 변경 사항에서도 각 요소들을 비교하여 오버헤드가 일어납니다.
 
 참고문헌
 ---------------
     https://github.com/facebook/react
+    
+    https://github.com/typescript-cheatsheets/react
+    
+    https://doqtqu.tistory.com/316
